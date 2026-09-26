@@ -1,0 +1,16 @@
+.carousel-img {
+  height: 600px;
+  object-fit: cover;
+}
+.food-img {
+  height: 200px; /* same image height */
+  object-fit: cover; /* no image distortion */
+}
+
+.food-card {
+  height: 100%;
+}
+.food-img1 {
+  height: 300px; /* same image height */
+  object-fit: contain; /* no image distortion */
+}

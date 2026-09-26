@@ -1,0 +1,88 @@
+BootStrap
+---------------------------
+Grid System
+Responsive classes 👍
+---------------------------
+1. sm : small devices
+2. md : medium devices(Tab, small desktop)
+3. lg : (large desktop)>=992px
+4. xl : xtra large device >= 1200px
+5. xxl : xtra xtra large device >= 1400px 
+
+
+
+No media 
+Custom CSS 
+100 Basic classes path pahije 
+
+Developer approach Responsive page and mobile friendly web pages
+ 
+How we can use?
+---------------------
+1. online method : CDN Links
+CDN LInk download : https://getbootstrap.com/docs/5.3/getting-started/download/ 
+
+
+
+2. offline method : download BootStrap in my local System
+Compiled CSS and JS download extract content and paste inside your project.
+
+
+how we can start BootStrap?
+-------------------------------------
+Two parent classes 
+1. container : 80% 
+2. container-fluid : 100% 
+
+Inside parent class we use multiple rows.
+Inside one row there is 12 col we class for column as below 
+col-1 
+col-2 
+col-3
+.
+.
+.
+col-12 
+
+===================================================================
+About Page:
+------------------
+Header / about Information
+About Institute
+Mission and Vission
+About Work
+Why Choose us 
+Team Information
+
+=======================================================================
+
+Validation
+----------------------
+1. is-valid
+2. is-invalid
+3. valid-feedback
+4. invalid-feedback 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
